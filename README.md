@@ -2,6 +2,13 @@
 
 A template of SvelteKit + TailwindCSS + DaisyUI + I18n + ...
 
+> This template supports [tmpl](https://github.com/JacobLinCool/tmpl).
+
+```sh
+tmpl import sveltekit-plus https://github.com/JacobLinCool/SvelteKit-Plus
+tmpl use sveltekit-plus
+```
+
 ## Batteries included
 
 - [x] [SvelteKit](https://kit.svelte.dev/)
