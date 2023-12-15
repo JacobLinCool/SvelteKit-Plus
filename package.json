@@ -21,7 +21,7 @@
 		"@changesets/cli": "^2.26.2",
 		"@playwright/test": "^1.37.1",
 		"@sveltejs/adapter-auto": "^2.1.0",
-		"@sveltejs/kit": "^1.24.0",
+		"@sveltejs/kit": "^2.0.0",
 		"@tailwindcss/typography": "^0.5.9",
 		"@typescript-eslint/eslint-plugin": "^6.5.0",
 		"@typescript-eslint/parser": "^6.5.0",
